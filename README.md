@@ -101,8 +101,8 @@ Tree-based models (Random Forest, Gradient Boosting) **cannot extrapolate beyond
 
 The project includes an interactive Streamlit app for exploring forecasts.
 
-```bash
-streamlit run streamlit_app.py
+LINK :
+https://imf-central-bank-forecaster-hqzvprtt4czeehdtyaugzl.streamlit.app/
 ```
 
 **App Features:**
