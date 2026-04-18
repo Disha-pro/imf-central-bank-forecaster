@@ -7,9 +7,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-> **Portfolio Project #3** by Disha | [Redefine Apex YouTube Channel](https://youtube.com/@RedefineApex)
+> **Portfolio Project #3** by Disha | 
 
----
 
 ## 📌 Project Overview
 
