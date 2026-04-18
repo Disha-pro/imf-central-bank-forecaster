@@ -100,7 +100,7 @@ Tree-based models (Random Forest, Gradient Boosting) **cannot extrapolate beyond
 
 The project includes an interactive Streamlit app for exploring forecasts.
 
-LINK :
+LIVE APP :
 https://imf-central-bank-forecaster-hqzvprtt4czeehdtyaugzl.streamlit.app/
 ```
 
