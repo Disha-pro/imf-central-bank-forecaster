@@ -185,7 +185,8 @@ Topics covered in the video:
 
 ## 👩‍💻 About
 
-Built by **Disha** as part of an AI Product Management portfolio sprint.
+Built by **Disha** as part of an AI Aspiring Enginner.
+
 
 - 💼 LinkedIn: https://www.linkedin.com/in/dishasonkar
 
